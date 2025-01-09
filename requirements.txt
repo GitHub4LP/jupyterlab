@@ -1,0 +1,9 @@
+jupyterlab
+jupyter-server-proxy
+IPython
+ipykernel
+jupyter_server
+nbclient
+nbconvert
+nbformat
+notebook
